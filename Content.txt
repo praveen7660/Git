@@ -1,0 +1,15 @@
+git status -> to check status of repo
+git add --all / git add -A => to Push all changes/files to the 				staging area
+
+git commit -m " " => to commit with a message
+
+git log => to check the history of commits
+
+git status --short => to see the changes in a more compact way: 
+
+git commit -a -m "" => to commit directly without staging the files[NOT RECOMMENDED]
+
+git status -help/ git help --all => to get log of all the git commands
+
+git diff file_name => gives the changes made in file_name
+
