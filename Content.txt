@@ -13,3 +13,17 @@ git status -help/ git help --all => to get log of all the git commands
 
 git diff file_name => gives the changes made in file_name
 
+git commit ammend -m "Updated Message" => Inspite of creating a new Commit ammend the most recent commit with new COmmit and commit message
+
+git log --all --graph => Visual Representattion of Branch on CMD
+
+--------------------------------------------------------------------------
+To connect Local Repo[Folder] to git Repo
+
+git remote add orgin url of repo => To add local to github repo
+
+git remote remove orgin => to remove repo from github
+
+
+ 
+
